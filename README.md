@@ -8,7 +8,7 @@ We use the **WELFake** dataset — a large, balanced benchmark dataset specifica
 ---
 
 ## 📂 Dataset
-**Source:** [WELFake Dataset - Kaggle](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification/data)  
+**Source:** [WELFake Dataset - Zenodo](https://zenodo.org/records/4561253)  
 
 - **Total articles:** 72,134  
   - **Fake:** 37,106  
